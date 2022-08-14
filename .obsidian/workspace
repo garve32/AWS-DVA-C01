@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "e4acd216aa8d7e8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0774fa309939ee1f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "AWS/Q3.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "44467c3031b7b7a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b464d4dec6b04349",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15017ca62951c266",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e7b65ae50a7953ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#ACL",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2aeb5d706ccd6061",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "29f71c8e44aeee56",
+    "type": "split",
+    "children": [
+      {
+        "id": "94aaf67bf1c6495d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b4590caee42d4d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AWS/Q3.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "b2be527eaa39b2d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AWS/Q3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2197006c48138cdb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "47c8d26248f0c057",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AWS/Q3.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 229.5
+  },
+  "active": "0774fa309939ee1f",
+  "lastOpenFiles": [
+    "AWS/Q2.md",
+    "AWS/Q1.md",
+    "AWS/Q3.md",
+    "2022-08-14.md",
+    "무제노트.md",
+    "Template/Template.md",
+    "Template/AWS QUIZ.md",
+    "AWS.md",
+    "Pasted image 20220813143819.png",
+    "Pasted image 20220813145350.png"
+  ]
+}
