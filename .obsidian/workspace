@@ -4,16 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "0774fa309939ee1f",
+        "id": "290134b84e626a29",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AWS/Q3.md",
-            "mode": "preview",
+            "file": "AWS/Q11~Q20/Q17.md",
+            "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "a8807e24f5c24e81"
+      },
+      {
+        "id": "9ea925891ebc67f3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "AWS/Q11~Q20/Q17.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "a8807e24f5c24e81"
       }
     ],
     "direction": "vertical"
@@ -77,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/Q3.md",
+                "file": "AWS/Q11~Q20/Q17.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/Q3.md",
+                "file": "AWS/Q11~Q20/Q17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,27 +131,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/Q3.md"
+                "file": "AWS/Q11~Q20/Q17.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
-  "active": "0774fa309939ee1f",
+  "active": "290134b84e626a29",
   "lastOpenFiles": [
-    "AWS/Q2.md",
-    "AWS/Q1.md",
-    "AWS/Q3.md",
-    "2022-08-14.md",
-    "무제노트.md",
-    "Template/Template.md",
+    "AWS/Q11~Q20/Q15.md",
+    "AWS/Q11~Q20/Q11.md",
+    "AWS/Q11~Q20/Q12.md",
+    "AWS/Q11~Q20/Q13.md",
+    "AWS/Q11~Q20/Q14.md",
+    "AWS/Q11~Q20/Q16.md",
+    "AWS/Q11~Q20/Q17.md",
     "Template/AWS QUIZ.md",
-    "AWS.md",
-    "Pasted image 20220813143819.png",
-    "Pasted image 20220813145350.png"
+    "Template/Template.md",
+    "AWS/Q1~Q10/Q1.md"
   ]
 }
